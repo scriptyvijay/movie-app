@@ -1,0 +1,20 @@
+.navbar {
+	width: 100vw;
+	min-width: 100vw;
+	height: 40px;
+	background-color: black;
+	border: 1px solid black;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.navbar input {
+	padding: 5px;
+	outline: none;
+}
+
+.navbar button {
+	padding: 5px;
+	margin-left: 10px;
+}
